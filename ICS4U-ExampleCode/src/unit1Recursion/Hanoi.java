@@ -2,7 +2,7 @@ package unit1Recursion;
 
 public class Hanoi {
 	/**
-	 * This code describes the Tower of Hanoi. This can solve over 3 blocks <p>
+	 * This code describes the Tower of Hanoi. This can solve 3 blocks <p>
 	 * Sep 26, 2024 
 	 * @param N
 	 * @param Src
