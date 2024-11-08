@@ -26,8 +26,8 @@ public class Sort {
      * The entry point for the program to test sorting methods.
      * Prompts the user to input an array and then calls the sorting method.
      *
-     * @param args Command-line arguments (not used)
-     */
+     * @param args Command-line 
+     *      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
